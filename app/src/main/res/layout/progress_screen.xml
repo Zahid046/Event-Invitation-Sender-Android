@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProgressScreen"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:paddingTop="60dp"
+
+        >
+
+        <ImageView
+            android:layout_width="228dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:src="@drawable/event4"
+
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:text="@string/progress"
+            android:textSize="30sp"
+            android:textStyle="bold"
+
+            />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:orientation="vertical"
+            android:layout_gravity="center"
+
+            >
+
+            <ProgressBar
+                android:id="@+id/progress"
+                android:progressTint="#3a394b"
+                android:progressBackgroundTint="#f9f9f9"
+                style="@android:style/Widget.ProgressBar.Horizontal"
+                android:layout_width="166dp"
+                android:layout_height="5dp"
+                android:layout_margin="50dp" />
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

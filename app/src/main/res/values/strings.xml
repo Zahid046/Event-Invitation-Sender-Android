@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Event Invitation Sender</string>
+    <string name="name_text">  Welcome To Event Invitation Sender</string>
+    <string name="intro"> You can create and share your Events invitation here!!</string>
+
+
+    <string name="createbuttontext">Create Event Invitation</string>
+    <string name="viewbuttontext">View Invitations</string>
+    <string name="create">Go to Main Page</string>
+    <string name="send">Send Invitation</string>
+    <string name="delete">Delete Invitation</string>
+
+    <string name="eventname">Enter Event Name</string>
+    <string name="venueaddress">Enter Venue Address</string>
+    <string name="description">Add Description...</string>
+    <string name="hostname">Host Name...</string>
+
+
+    <string name="addtext"> Ok </string>
+    <string name="subtext"> Ok </string>
+
+    <string name="title_text"> Warning !</string>
+    <string name="massege_text"> Do want to exit ?</string>
+
+
+    <string name="viewpagetext">  Here you can see all your saved events invitation card and share your events details</string>
+
+
+    <string name="birth">Birthday</string>
+    <string name="marry">Marriage</string>
+    <string name="custom">Custom</string>
+    <string name="dev_title">Developer Info :</string>
+    <string name="developer">
+        \nAli Hasan Rumel
+        \nDepartment of CSE
+        \nLeading University, Sylhet
+        \nahrumel94@yahoo.co.uk\n</string>
+
+    <string name="help">
+        1. For creating an event invitation Click on Create Event Invitation button.\n\n
+        2.Choose from any event type Then Fill up the form.\n\n
+        3.Click Preview for a quick look on the Invitation , Click Save for saving the Invitation or Click Clear for clearing all the fields.\n\n
+        4.For Inviting others in the Event click on Send Invitation button after saving and Invite others to your Event via any social platform.\n\n
+        5.For viewing the list of saved invitation Click View Invitations.\n\n
+        6.For any kind of query and Feedback please use the Feedback option from Option Menu.\n\n
+        7.For deleting any invitation Click Delete invitation button after opening an invitation.\n\n
+    </string>
+
+
+    <string name="progress">Event Invitation Sender</string>
+
+
+</resources>
