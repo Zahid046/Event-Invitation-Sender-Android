@@ -60,7 +60,7 @@ public class Feedback extends AppCompatActivity implements View.OnClickListener 
                     Intent intent = new Intent(Intent.ACTION_SEND);
                     intent.setType("message/rfc822");
 
-                    intent.putExtra(Intent.EXTRA_EMAIL, new String[]{"ahrumel94@yahoo.co.uk"});
+                    intent.putExtra(Intent.EXTRA_EMAIL, new String[]{"zmemon046@gmail.com"});
 
                     intent.putExtra(Intent.EXTRA_SUBJECT, "User Feedback");
 
