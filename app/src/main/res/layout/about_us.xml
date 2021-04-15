@@ -29,7 +29,7 @@
             android:layout_width="196dp"
             android:layout_height="152dp"
             android:layout_gravity="center"
-            android:src="@drawable/lu">
+            android:src="@drawable/neub">
 
         </ImageView>
 
